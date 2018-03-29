@@ -1,0 +1,2 @@
+in chatting appliction, the server serves the connection between the client and the server itself.
+the client requests the socket service and write and read on the socket.

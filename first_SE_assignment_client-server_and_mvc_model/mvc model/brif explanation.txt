@@ -1,0 +1,4 @@
+in the BookDetails.java file, 
+the main function is treated as the view as it controls the ui;
+the "chooose" function is treated as the controller as it controls the data in the enum;
+the enum "Books" is treated as the model as it stores data about each book;
